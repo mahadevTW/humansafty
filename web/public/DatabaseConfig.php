@@ -1,15 +1,15 @@
 <?php
 
 //Define your host here.
-$HostName = "localhost";
+$HostName = "mysql";
 
 //Define your database username here.
-$HostUser = "dhamalex_Andriod";
+$HostUser = "root";
 
 //Define your database password here.
-$HostPass = "j79d7uo0p1tu";
+$HostPass = "root";
 
 //Define your database name here.
-$DatabaseName = "dhamalex_Android";
+$DatabaseName = "humansafty";
 
 ?>
