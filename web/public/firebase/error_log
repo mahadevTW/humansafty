@@ -1,0 +1,50 @@
+[14-Mar-2018 10:10:10 UTC] PHP Notice:  Undefined index: token in /home/dhamalex/public_html/Android/firebase/notification.php on line 4
+[14-Mar-2018 10:23:09 UTC] PHP Notice:  Undefined index: token in /home/dhamalex/public_html/Android/firebase/notification.php on line 7
+[14-Mar-2018 10:25:15 UTC] PHP Notice:  Undefined index: token in /home/dhamalex/public_html/Android/firebase/notification.php on line 7
+[14-Mar-2018 16:00:50 Asia/Kolkata] PHP Notice:  Undefined index: token in /home/dhamalex/public_html/Android/firebase/notification.php on line 7
+[14-Mar-2018 16:51:52 Asia/Kolkata] PHP Notice:  Undefined index: token in /home/dhamalex/public_html/Android/firebase/notification.php on line 7
+[14-Mar-2018 16:53:11 Asia/Kolkata] PHP Notice:  Undefined index: token in /home/dhamalex/public_html/Android/firebase/notification.php on line 7
+[14-Mar-2018 16:54:34 Asia/Kolkata] PHP Notice:  Undefined index: token in /home/dhamalex/public_html/Android/firebase/notification.php on line 7
+[14-Mar-2018 16:55:02 Asia/Kolkata] PHP Notice:  Undefined index: token in /home/dhamalex/public_html/Android/firebase/notification.php on line 7
+[14-Mar-2018 17:02:05 Asia/Kolkata] PHP Notice:  Undefined index: token in /home/dhamalex/public_html/Android/firebase/notification.php on line 7
+[14-Mar-2018 17:09:09 Asia/Kolkata] PHP Notice:  Undefined index: token in /home/dhamalex/public_html/Android/firebase/notification.php on line 5
+[14-Mar-2018 17:10:24 Asia/Kolkata] PHP Notice:  Undefined index: token in /home/dhamalex/public_html/Android/firebase/notification.php on line 5
+[14-Mar-2018 17:14:45 Asia/Kolkata] PHP Notice:  Undefined index: token in /home/dhamalex/public_html/Android/firebase/notification.php on line 5
+[14-Mar-2018 17:17:05 Asia/Kolkata] PHP Notice:  Undefined index: token in /home/dhamalex/public_html/Android/firebase/notification.php on line 5
+[14-Mar-2018 17:18:32 Asia/Kolkata] PHP Notice:  Undefined index: token in /home/dhamalex/public_html/Android/firebase/notification.php on line 5
+[14-Mar-2018 11:56:18 UTC] PHP Warning:  require_once(dbconnect.php): failed to open stream: No such file or directory in /home/dhamalex/public_html/Android/firebase/balika.php on line 3
+[14-Mar-2018 11:56:18 UTC] PHP Fatal error:  require_once(): Failed opening required 'dbconnect.php' (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/dhamalex/public_html/Android/firebase/balika.php on line 3
+[14-Mar-2018 17:28:20 Asia/Kolkata] PHP Warning:  require_once(Dbconnect.php): failed to open stream: No such file or directory in /home/dhamalex/public_html/Android/firebase/balika.php on line 3
+[14-Mar-2018 17:28:20 Asia/Kolkata] PHP Fatal error:  require_once(): Failed opening required 'Dbconnect.php' (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/dhamalex/public_html/Android/firebase/balika.php on line 3
+[14-Mar-2018 17:34:34 Asia/Kolkata] PHP Notice:  Undefined variable: conn in /home/dhamalex/public_html/Android/firebase/balika.php on line 19
+[14-Mar-2018 17:34:34 Asia/Kolkata] PHP Fatal error:  Call to a member function prepare() on null in /home/dhamalex/public_html/Android/firebase/balika.php on line 19
+[14-Mar-2018 17:35:33 Asia/Kolkata] PHP Notice:  Undefined variable: conn in /home/dhamalex/public_html/Android/firebase/balika.php on line 19
+[14-Mar-2018 17:35:33 Asia/Kolkata] PHP Fatal error:  Call to a member function prepare() on null in /home/dhamalex/public_html/Android/firebase/balika.php on line 19
+[14-Mar-2018 17:42:54 Asia/Kolkata] PHP Warning:  require_once(dbconnect.php): failed to open stream: No such file or directory in /home/dhamalex/public_html/Android/firebase/balika.php on line 3
+[14-Mar-2018 17:42:54 Asia/Kolkata] PHP Fatal error:  require_once(): Failed opening required 'dbconnect.php' (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/dhamalex/public_html/Android/firebase/balika.php on line 3
+[14-Mar-2018 17:44:16 Asia/Kolkata] PHP Fatal error:  Call to a member function bind_param() on boolean in /home/dhamalex/public_html/Android/firebase/balika.php on line 20
+[14-Mar-2018 17:51:16 Asia/Kolkata] PHP Warning:  mysqli_stmt::bind_result(): Number of bind variables doesn't match number of fields in prepared statement in /home/dhamalex/public_html/Android/firebase/balika.php on line 28
+[14-Mar-2018 17:55:02 Asia/Kolkata] PHP Warning:  mysqli_stmt::bind_result(): Number of bind variables doesn't match number of fields in prepared statement in /home/dhamalex/public_html/Android/firebase/balika.php on line 28
+[14-Mar-2018 17:55:02 Asia/Kolkata] PHP Notice:  Undefined variable: token in /home/dhamalex/public_html/Android/firebase/balika.php on line 39
+[14-Mar-2018 17:56:00 Asia/Kolkata] PHP Warning:  mysqli_stmt::bind_result(): Number of bind variables doesn't match number of fields in prepared statement in /home/dhamalex/public_html/Android/firebase/balika.php on line 28
+[14-Mar-2018 17:58:30 Asia/Kolkata] PHP Warning:  mysqli_stmt::bind_result(): Number of bind variables doesn't match number of fields in prepared statement in /home/dhamalex/public_html/Android/firebase/balika.php on line 28
+[14-Mar-2018 17:59:37 Asia/Kolkata] PHP Warning:  mysqli_stmt::bind_result(): Number of bind variables doesn't match number of fields in prepared statement in /home/dhamalex/public_html/Android/firebase/balika.php on line 28
+[14-Mar-2018 18:01:46 Asia/Kolkata] PHP Warning:  mysqli_stmt::bind_result(): Number of bind variables doesn't match number of fields in prepared statement in /home/dhamalex/public_html/Android/firebase/balika.php on line 28
+[14-Mar-2018 18:06:34 Asia/Kolkata] PHP Notice:  Undefined index: token in /home/dhamalex/public_html/Android/firebase/balika.php on line 19
+[14-Mar-2018 18:06:34 Asia/Kolkata] PHP Fatal error:  Cannot pass parameter 1 by reference in /home/dhamalex/public_html/Android/firebase/balika.php on line 32
+[14-Mar-2018 18:07:27 Asia/Kolkata] PHP Notice:  Undefined index: token in /home/dhamalex/public_html/Android/firebase/balika.php on line 19
+[14-Mar-2018 18:07:27 Asia/Kolkata] PHP Fatal error:  Cannot pass parameter 1 by reference in /home/dhamalex/public_html/Android/firebase/balika.php on line 32
+[14-Mar-2018 18:08:55 Asia/Kolkata] PHP Fatal error:  Cannot pass parameter 1 by reference in /home/dhamalex/public_html/Android/firebase/balika.php on line 32
+[14-Mar-2018 18:09:10 Asia/Kolkata] PHP Fatal error:  Cannot pass parameter 1 by reference in /home/dhamalex/public_html/Android/firebase/balika.php on line 32
+[14-Mar-2018 18:29:27 Asia/Kolkata] PHP Warning:  mysqli_stmt::bind_param(): Number of variables doesn't match number of parameters in prepared statement in /home/dhamalex/public_html/Android/firebase/balika.php on line 22
+[14-Mar-2018 18:57:06 Asia/Kolkata] PHP Warning:  mysqli_stmt::bind_param(): Number of variables doesn't match number of parameters in prepared statement in /home/dhamalex/public_html/Android/firebase/balika.php on line 22
+[14-Mar-2018 18:58:44 Asia/Kolkata] PHP Warning:  mysqli_stmt::bind_param(): Number of variables doesn't match number of parameters in prepared statement in /home/dhamalex/public_html/Android/firebase/balika.php on line 22
+[14-Mar-2018 18:59:26 Asia/Kolkata] PHP Warning:  mysqli_stmt::bind_param(): Number of variables doesn't match number of parameters in prepared statement in /home/dhamalex/public_html/Android/firebase/balika.php on line 22
+[14-Mar-2018 19:00:16 Asia/Kolkata] PHP Warning:  mysqli_stmt::bind_param(): Number of variables doesn't match number of parameters in prepared statement in /home/dhamalex/public_html/Android/firebase/balika.php on line 22
+[14-Mar-2018 19:00:50 Asia/Kolkata] PHP Warning:  mysqli_stmt::bind_param(): Number of variables doesn't match number of parameters in prepared statement in /home/dhamalex/public_html/Android/firebase/balika.php on line 22
+[14-Mar-2018 19:05:17 Asia/Kolkata] PHP Warning:  mysqli_stmt::bind_param(): Number of variables doesn't match number of parameters in prepared statement in /home/dhamalex/public_html/Android/firebase/balika.php on line 22
+[14-Mar-2018 19:06:19 Asia/Kolkata] PHP Warning:  mysqli_stmt::bind_param(): Number of variables doesn't match number of parameters in prepared statement in /home/dhamalex/public_html/Android/firebase/balika.php on line 22
+[14-Mar-2018 19:07:14 Asia/Kolkata] PHP Warning:  mysqli_stmt::bind_param(): Number of variables doesn't match number of parameters in prepared statement in /home/dhamalex/public_html/Android/firebase/balika.php on line 22
+[14-Mar-2018 20:19:28 Asia/Kolkata] PHP Notice:  Undefined index: title in /home/dhamalex/public_html/Android/firebase/noti.php on line 29
+[14-Mar-2018 20:19:28 Asia/Kolkata] PHP Notice:  Undefined index: message in /home/dhamalex/public_html/Android/firebase/noti.php on line 30
+[17-Mar-2018 14:20:03 Asia/Kolkata] PHP Warning:  mysqli_stmt::bind_result(): Number of bind variables doesn't match number of fields in prepared statement in /home/dhamalex/public_html/Android/firebase/balika.php on line 32
