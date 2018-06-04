@@ -11,7 +11,7 @@ if (!$conn) {
 
 $id = $_POST['id'];
 $sql = "SELECT * 
-		FROM harterate1
+		FROM HarteRate1
                    WHERE personid='$id'";
 $query = mysqli_query($conn, $sql);
 
