@@ -55,6 +55,6 @@ services:
         volumes:
             - "./data/db/mysql:/var/lib/mysql"
     samplewar:
-        image: server
+        image : server
         ports:
             - "8909:8080"        
