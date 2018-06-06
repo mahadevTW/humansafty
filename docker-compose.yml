@@ -54,3 +54,7 @@ services:
             - "8989:3306"
         volumes:
             - "./data/db/mysql:/var/lib/mysql"
+    samplewar:
+        image: server
+        ports:
+            - "8909:8080"        
